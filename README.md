@@ -57,5 +57,5 @@ You are requested to go through the folders and read the readme files to underst
 --
 
 # Contributing
-Feel free to contribute to any part of the project. You can work on integration or model improvements. Please follow the code guidelines and write tests for any new functionality.
+
 
