@@ -1,0 +1,13 @@
+#save is file in data folder of yolov5
+
+train: data/new_data_set/images/train
+val: data/new_data_set/images/val
+
+
+# Classes
+nc: 2
+names: ['good box','bad box']
+  
+
+# Download script/URL (optional)
+download: https://github.com/ultralytics/assets/releases/download/v0.0.0/coco128.zip
