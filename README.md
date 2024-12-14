@@ -5,7 +5,6 @@ This project aims to revolutionize the quality inspection process for India's la
 The system utilizes advanced Smart Vision Technology to automate quality control processes. By analyzing images of products, it ensures that the products meet predefined standards for quality, quantity, and packaging integrity. This is achieved through a combination of camera vision, OCR, and machine learning models that detect defects, identify labels, and verify product freshness.
 
 
-https://github.com/user-attachments/assets/85204c5c-db9d-46f1-aec2-7ac7e21db849
 
 
 ### Key Features:
@@ -52,7 +51,7 @@ instructions for running each model separately are given in each folder.
 You are requested to go through the folders and read the readme files to understand it better !!!
 
 ### Future Work
-- **Model Integration:** We are working on integrating the three models to run simultaneously and generate a unified output.
+- **Model Integration:** Working on integrating the three models to run simultaneously and generate a unified output.
 - **Real-Time Feedback:** The integrated system will eventually provide real-time quality assessments and feedback for automated systems.
 --
 
