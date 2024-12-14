@@ -1,5 +1,5 @@
 # **Optiscan**
-This project aims to revolutionize the quality inspection process for India's largest ecommerce company by leveraging camera vision technology. The system is designed to assess the shipment quality and quantity efficiently using image processing, machine learning, and sensor integration.
+This project aims to revolutionize the quality inspection process for India's largest ecommerce company by leveraging camera vision technology. The system is designed to assess the shipment quality and quantity efficiently using image processing, machine learning.
 ---
 ## **Project Overview**
 The system utilizes advanced Smart Vision Technology to automate quality control processes. By analyzing images of products, it ensures that the products meet predefined standards for quality, quantity, and packaging integrity. This is achieved through a combination of camera vision, OCR, and machine learning models that detect defects, identify labels, and verify product freshness.
